@@ -8,7 +8,20 @@ This project features a **compact, handheld function generator** designed around
 - **Encoder and Button Panel**: Allows for intuitive control of frequency, waveform selection, and adjustments to settings.
 - **High-Resolution Output**: Harnessing the **28-bit resolution** of the AD9833, ensuring precise and smooth waveform generation over a wide frequency range.
 - **Firmware Development**: Custom firmware built for the RP2040 to manage waveform generation, user input, and real-time display updates.
+
+<div align="center">
+  <figure>
+    <img src="img/front.jpeg" alt="Function Generator Front" width="600"/>
+    <figcaption><b>Function Generator Front</b></figcaption>
+  </figure>
   
+  <figure>
+    <img src="img/back.jpeg" width="600"/>
+    <figcaption><b>Function Generator Back </b></figcaption>
+  </figure>
+
+</div
+
 ## Applications:
 This design is ideal for:
 - **Laboratory environments** where precise signal generation is required.
