@@ -22,6 +22,8 @@ This project features a **compact, handheld function generator** designed around
 
 </div
 
+## check Img Folder for Tested Waveforms
+
 ## Applications:
 This design is ideal for:
 - **Laboratory environments** where precise signal generation is required.
