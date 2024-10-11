@@ -11,12 +11,12 @@ This project features a **compact, handheld function generator** designed around
 
 <div align="center">
   <figure>
-    <img src="img/front.jpeg" alt="Function Generator Front" width="600"/>
+    <img src="img/front.jpg" alt="Function Generator Front" width="600"/>
     <figcaption><b>Function Generator Front</b></figcaption>
   </figure>
   
   <figure>
-    <img src="img/back.jpeg" width="600"/>
+    <img src="img/back.jpg" width="600"/>
     <figcaption><b>Function Generator Back </b></figcaption>
   </figure>
 
